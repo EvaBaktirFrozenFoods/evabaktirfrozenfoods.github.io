@@ -32,7 +32,7 @@ lalu buka http://localhost:8000
 1. Buat repository baru di GitHub (misal `eva-baktir`).
 2. Unggah semua file dan folder ini (lewat "Add file > Upload files" atau `git push`).
 3. Di repository: Settings > Pages > Source: "Deploy from a branch", Branch: `main`, folder `/ (root)`, Save.
-4. Tunggu 1-2 menit, website aktif di `https://<username>.github.io/eva-baktir/`.
+4. Tunggu 1-2 menit. Website ini aktif di https://evabaktirfrozenfoods.github.io/
 
 ## Deploy ke Netlify
 Buka app.netlify.com/drop lalu seret folder ini ke halaman tersebut.
